@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="parent_padding">16dp</dimen>
+    <dimen name="bottom_padding">8dp</dimen>
+    <dimen name="header1_size">45sp</dimen>
+    <dimen name="header2_size">34sp</dimen>
+    <dimen name="regular_size">24sp</dimen>
+
+</resources>

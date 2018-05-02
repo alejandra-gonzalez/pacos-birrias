@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paco\'s Birrias</string>
+    <string name="description">Love birria?\nCome visit us!</string>
+    <string name="address">3231 Tecumseh Ave\nLynwood, CA 90262</string>
+    <string name="hours">Monday through Saturday\n 8 a.m. - 2 p.m.</string>
+    <string name="image_description">A bowl of birria and birria tacos surrounded by containers full of additional toppings</string>
+    <string name="desc2">We have everything birria, including tacos, quesadillas and much more!</string>
+</resources>
